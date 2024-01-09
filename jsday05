@@ -1,0 +1,48 @@
+Ques1
+const a = 3;
+const b = 3;
+const result = a+b;
+console.log(result);
+
+Ques2
+const a = 6;
+const b = 2;
+const result = a<10 && a>b ;
+console.log('is the conditions are valid '+result);
+
+Ques3
+const a = 26;
+const b = 40;
+const result = a%10==0 || b%10==0 ;
+console.log('is the no. divisible by 10 '+result);
+
+Ques4
+
+Ques5
+const a = 1234;
+const b = a%10;
+console.log("last digit of 4 digit number is:-" +b);
+
+Ques6
+const a = 12;
+const b = 15;
+const result = a%b;
+console.log("the remainder is:-"+result);
+
+
+Ques7
+const a = 8;
+const b = 9;
+const result = a*b;
+console.log(result);
+
+Ques8
+const a = 60;
+const b = 89;
+const c = 76;
+const total = a+b+c;
+console.log(total);
+const avg = (a+b+c)/3;
+console.log(avg);
+
+
